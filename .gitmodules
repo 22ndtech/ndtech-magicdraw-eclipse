@@ -1,0 +1,12 @@
+[submodule "MagicDraw"]
+	path = MagicDraw
+	url = https://github.com/22ndtech/eclipse-MagicDraw.git
+[submodule "MagicDrawWithAllPluginsLauncher"]
+	path = MagicDrawWithAllPluginsLauncher
+	url = https://github.com/22ndtech/eclipse-MagicDrawWithAllPluginsLauncher.git
+[submodule "ndtech-magicdraw"]
+	path = ndtech-magicdraw
+	url = https://github.com/22ndtech/ndtech-magicdraw.git
+[submodule "ndtech-magicdraw-test"]
+	path = ndtech-magicdraw-test
+	url = https://github.com/22ndtech/ndtech-magicdraw-test.git
