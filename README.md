@@ -1,10 +1,6 @@
 # ndtech-magicdraw-eclipse : Master project for developing ndtech-magicdraw
 
 
-## EXAMPLE USAGE
-#### SAMPLE CONTENT UPDATE!!!
-```
-LOG(INFO) << "streaming API is as easy as ABC or " << 123;
+## Getting started
+Take a look at this video to get started - https://youtu.be/3kz8sldyOaE
 
-LOGF(WARNING, "Printf-style syntax is also %s", "available");
-```
